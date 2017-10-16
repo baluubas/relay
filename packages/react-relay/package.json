@@ -1,7 +1,7 @@
 {
   "name": "react-relay",
   "description": "A framework for building GraphQL-driven React applications.",
-  "version": "1.4.1",
+  "version": "1.4.1-capish",
   "keywords": [
     "graphql",
     "relay",
